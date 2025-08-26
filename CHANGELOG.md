@@ -2,6 +2,7 @@
 
 ## v5.0.2
 - Improve CI configuration [#3553](https://github.com/DMPRoadmap/roadmap/pull/3553)
+- Bump rack from 3.1.12 to 3.1.16 [#3531](https://github.com/DMPRoadmap/roadmap/pull/3531)
 
 ## v5.0.1
 - Updated seeds.rb file for identifier_schemes to include context value and removed logo_url and idenitifier_prefix for Shibboleth (as it was causing issues with SSO). [#3525](https://github.com/DMPRoadmap/roadmap/pull/3525)
